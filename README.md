@@ -8,11 +8,13 @@ I really want to become a good developer and one thing i lack is consistency so 
 
 Which language?
 
-C++ and javascript and its libraries Why C++?
+Python and HTML/CSS/JAVAScript and its libraries 
+
+Why Python?
 
 
-Because it is in my college syllabus ;)
+Because i am a Python DEV ;)
 
-Why javascript?
+Why HTML/CSS/JAVAScript?
 
-Because i love front-end
+Because its a new thing and interestiing thing to me and i am going to enjoy this!
