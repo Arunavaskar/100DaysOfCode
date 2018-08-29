@@ -12,3 +12,11 @@ Sample Input
 Sample Output
 The total meal cost is 15 dollars.
 
+Explanation
+given:
+mealCost=12, tipPercent = 20, taxPercent = 8
+Calculation:
+tip=(12*20)/100
+tax=(12*8)/100
+total cost = mealcost+tip+tax=15.36
+round(tota cost)=15
